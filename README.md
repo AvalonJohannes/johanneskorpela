@@ -1,2 +1,2 @@
 # johanneskorpela
-Minä
+Oma sivu
